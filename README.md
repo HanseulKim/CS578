@@ -68,3 +68,13 @@ The topics we will cover are as follows. The precise amount of time we will spen
 ## Useful Links
 * [Slides](slides)
 * [Jupyter Notebooks](notebooks)
+* Piazza Course Link https://piazza.com/iit/spring2019/cs578/
+* GitHub CS578-S19 Classroom https://classroom.github.com/classrooms/46386925-cs578-spring-2019
+
+## Python
+* Python 3.6, 64bit https://www.python.org/
+* Jupyter notebook https://jupyter.org/
+* Pandas https://pandas.pydata.org/
+* Scikit-learn http://scikit-learn.org/stable/ 
+* TensorFlow https://www.tensorflow.org/ 
+* Keras  https://keras.io/
