@@ -17,3 +17,58 @@ This course will discuss how we can enable humans and machine learning systems t
 4. Provide a theoretical and practical understanding of how we can enable machine learning algorithms accept both expert and novice feedback.
 5. Provide a mathematical foundation of how we can make black-box machine learning algorithms explain their reasonings.
 6. Practice the design and implementation of an interactive and transparent decision-making process powered by machine learning algorithms.
+
+## Prerequisites
+Required: CS422 and CS430. Also recommended: Math 332 and Math 474.
+
+## Topics
+The topics we will cover are as follows. The precise amount of time we will spend on each topic will vary based on student interest and participation.
+
+* Concept learning
+  * Inductive bias, version space, Find-S, candidate elimination, active learning
+* Active learning
+  * Motivation, uncertainty sampling, query-by-committee sampling, advantages, disadvantages
+* Transparency
+  * Motivation, aims, applications, approaches
+* Decision trees
+  * Information gain, overfitting, underfitting, bias versus variance, version space
+  * Interactive learning (version space reduction, query-by-bagging)
+  * Transparency (visualize the tree, understand how the inductive bias affects the final tree, how to interpret the root and leaves in terms of feature importance)
+* Linear regression
+  * Error functions, maximum likelihood, noise, outliers, closed-form solution to linear regression 
+  * Interactive learning (measures of uncertainty for regression, variance-based approaches)
+  * Transparency (interpreting the weights, the effect of scaling the features)
+* Probability background
+  * Random variables, joint distribution, conditional distribution, chain rule, Bayes rule
+* Naïve Bayes (3 hours)
+  * Bayes classifier, Bayesian parameter estimation, bias, probability calibration
+  * Interactive learning (uncertainty sampling, expected error reduction)
+  * Transparency (interpreting the log-ratios as feature weights, understanding the implications of the conditional-independence assumption, inspecting the over-confidence of naïve Bayes)
+* Logistic regression
+  * The logistic function, gradient optimization
+  * Interactive learning (uncertainty sampling)
+  * Transparency (interpreting the weights, understanding the effect of joint optimization on the weights of correlated features, the effect of scaling features on the weights)
+* Support vector machines (SVMs)
+  * The objective function, the linear SVM, the kernels
+  * Interactive learning (the active learning for SVMs paper and others)
+  * Transparency (approaches to making non-linear SVMs more transparent)
+* Neural networks
+  * The neural network representation, backpropagation, various architectures, overfitting
+  * Interactive learning (multiclass active learning, active learning for neural networks)
+  * Transparency (several papers on making neural networks’ decisions more transparent)
+* Regularization
+  * L2 regularization, L1 regularization, regularization applied to regression and classification
+  * Transparency (understanding the general and different effects of L2 and L1 regularization on the weights)
+* Recommender systems (RS)
+  * Content-based RS, collaborative filtering, matrix factorization
+  * Interactive learning (implicit and explicit feedback)
+  * Transparency (several papers)
+*	Interactive machine learning
+  * Learning with rationales, tandem learning, visualization
+* Crowdsourcing
+  * Learning from experts vs. novice users, handling noise, exploration vs. exploitation
+*	Other topics
+  * Expert systems, human-computer interaction, intelligent user interfaces, computer-aided diagnosis, computer-supported cooperative work, chat bots, interacting with robots
+
+
+
