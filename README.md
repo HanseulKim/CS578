@@ -65,11 +65,11 @@ The topics we will cover are as follows. The precise amount of time we will spen
 * Other topics
   * Expert systems, human-computer interaction, intelligent user interfaces, computer-aided diagnosis, computer-supported cooperative work, chat bots, interacting with robots
 
-## Useful Links
+## Course Materials
 * [Slides](slides)
 * [Jupyter Notebooks](notebooks)
-* Piazza Course Link https://piazza.com/iit/spring2019/cs578/
-* GitHub CS578-S19 Classroom https://classroom.github.com/classrooms/46386925-cs578-spring-2019
+* Piazza Course Link - use for Q&A: https://piazza.com/iit/spring2019/cs578/
+* GitHub CS578-S19 Classroom - use for assignment and project submissions:  https://classroom.github.com/classrooms/46386925-cs578-spring-2019
 
 ## Python
 * Python 3.6, 64bit https://www.python.org/
