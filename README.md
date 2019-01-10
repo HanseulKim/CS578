@@ -58,11 +58,11 @@ The topics we will cover are as follows. The precise amount of time we will spen
   * Content-based RS, collaborative filtering, matrix factorization
   * Interactive learning (implicit and explicit feedback)
   * Transparency (several papers)
-*	Interactive machine learning
+* Interactive machine learning
   * Learning with rationales, tandem learning, visualization
 * Crowdsourcing
   * Learning from experts vs. novice users, handling noise, exploration vs. exploitation
-*	Other topics
+* Other topics
   * Expert systems, human-computer interaction, intelligent user interfaces, computer-aided diagnosis, computer-supported cooperative work, chat bots, interacting with robots
 
 ## Useful Links
