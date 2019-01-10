@@ -1,5 +1,5 @@
 # Powerpoint files
-.pptx
+*.pptx
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
