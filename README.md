@@ -24,6 +24,9 @@ The topics we will cover are as follows. The precise amount of time we will spen
 * Probability background
   * Random variables, joint distribution, conditional distribution, chain rule, Bayes rule
 * Feature selection and ranking
+  * Mutual information
+  * Chi2
+  * Regularization
 * Bayesian networks
   * Representation
   * Structure learning
