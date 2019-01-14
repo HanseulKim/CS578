@@ -21,21 +21,26 @@ The topics we will cover are as follows. The precise amount of time we will spen
 
 * Concept learning
   * Inductive bias, version space, Find-S, candidate elimination, active learning
-* Active learning
-  * Motivation, uncertainty sampling, query-by-committee sampling, advantages, disadvantages
-* Transparency
-  * Motivation, aims, applications, approaches
+* Probability background
+  * Random variables, joint distribution, conditional distribution, chain rule, Bayes rule
+* Feature selection and ranking
+* Bayesian networks
+  * Representation
+  * Structure learning
+  * Synthetic data generation
 * Decision trees
   * Information gain, overfitting, underfitting, bias versus variance, version space
   * Interactive learning (version space reduction, query-by-bagging)
   * Transparency (visualize the tree, understand how the inductive bias affects the final tree, how to interpret the root and leaves in terms of feature importance)
+* Active learning
+  * Motivation, uncertainty sampling, query-by-committee sampling, advantages, disadvantages
+* Transparency
+  * Motivation, aims, applications, approaches
 * Linear regression
   * Error functions, maximum likelihood, noise, outliers, closed-form solution to linear regression 
   * Interactive learning (measures of uncertainty for regression, variance-based approaches)
   * Transparency (interpreting the weights, the effect of scaling the features)
-* Probability background
-  * Random variables, joint distribution, conditional distribution, chain rule, Bayes rule
-* Naïve Bayes (3 hours)
+* Naïve Bayes
   * Bayes classifier, Bayesian parameter estimation, bias, probability calibration
   * Interactive learning (uncertainty sampling, expected error reduction)
   * Transparency (interpreting the log-ratios as feature weights, understanding the implications of the conditional-independence assumption, inspecting the over-confidence of naïve Bayes)
