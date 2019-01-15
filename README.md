@@ -86,3 +86,4 @@ The topics we will cover are as follows. The precise amount of time we will spen
 * Scikit-learn http://scikit-learn.org/stable/ 
 * TensorFlow https://www.tensorflow.org/ 
 * Keras  https://keras.io/
+* Bokeh https://bokeh.pydata.org/en/latest/
