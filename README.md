@@ -78,6 +78,7 @@ The topics we will cover are as follows. The precise amount of time we will spen
 * [Jupyter Notebooks](notebooks)
 * Piazza Course Link - use for Q&A: https://piazza.com/iit/spring2019/cs578/
 * GitHub CS578-S19 Classroom - use for assignment and project submissions:  https://classroom.github.com/classrooms/46386925-cs578-spring-2019
+* OneNote: https://1drv.ms/u/s!AjipUklg3ofWi9JlAVdCZy5rD5Q1Gg
 
 ## Python
 * Python 3.6, 64bit https://www.python.org/
