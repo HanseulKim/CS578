@@ -4,4 +4,4 @@ Once you accept an assignment, through clicking its invitation link, GitHub will
 
 ## Assignment Invitations
 
-* __Assignment 0:__ coming soon!
+* __Assignment 0:__ https://classroom.github.com/a/yhgo8iSK __Deadline__: January 27th, 10pm
