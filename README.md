@@ -88,7 +88,7 @@ The topics we will cover are as follows. The precise amount of time we will spen
 * Keras  https://keras.io/
 * Bokeh https://bokeh.pydata.org/en/latest/
 
-## Git & GitHub
+## Git & GitHub Cheat Sheats
 * Git Cheat Sheats https://education.github.com/git-cheat-sheet-education.pdf
 * GitHub Flow Guide https://enterprise.github.com/downloads/en/github-flow-cheatsheet.pdf
 * GitHub Markdown Guide https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf
