@@ -5,4 +5,4 @@
 .ipynb_checkpoints
 
 # Hugin hlg files
-.hlg
+*.hlg
