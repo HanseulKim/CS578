@@ -1,3 +1,3 @@
-#Hugin network files
+# Hugin network files
 
-* Student: student network described in [../slides/5-bayesian-networks.pdf](../slides/5-bayesian-networks.pdf), slide 17.
+* student: the student network described in [../slides/5-bayesian-networks.pdf](../slides/5-bayesian-networks.pdf), slide 17.
