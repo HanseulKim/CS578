@@ -17,7 +17,7 @@ Recommended:
 
 **Interaction**
 
-1. Active learning: http://active-learning.net/
+1. Active learning: http://active-learning.net/ The pdf of the book should be accessible through university network.
 1. Tandem learning: examples: https://aclanthology.info/pdf/D/D09/D09-1009.pdf http://prem-melville.com/publications/pooling-multinomials-kdd09.pdf
 1. Learning with rationales: examples: http://www.aclweb.org/anthology/N07-1033 http://www.aclweb.org/anthology/N15-1047
 
