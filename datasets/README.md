@@ -2,7 +2,7 @@
 
 We would like to pick a few datasets and analyze them throughout the semester. This document contains a list of suggested datasets.
 
-I created an initial list of datasets that we can use. If there is an additional dataset that you'd like to be included, please create an issue on Github and I'll see what I can do.
+I created an initial list of datasets that we can use. If there is an additional dataset that you'd like to be included, please create an issue on Github, provide all the information needed (see below for examples), and I'll add the dataset to the list.
 
 Some sources of datasets:
 
