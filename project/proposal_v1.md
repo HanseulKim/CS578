@@ -1,7 +1,7 @@
 # Initial Project Proposal
 
 
-**_DRAFT_**
+**_IMPORTANT NOTE: THIS IS AN OUTDATED DOCUMENT. PLEASE SEE https://github.com/CS578-S19/CS578/tree/master/assignments FOR UP TO DATE INFORMATION._**
 
 I will not assign a specific problem to work on; rather, you will propose what you would like to work on.
 
